@@ -1,20 +1,17 @@
-# Python virtual environment
+# Python environments and caches
 .venv/
-
-# Python cache
 __pycache__/
 *.pyc
 
 # macOS
 .DS_Store
 
-# Large datasets and trained models
+# Dataset and model files
 data/
 models/
-
-# Generated experiment outputs
 results/
 
-# Environment and secrets
+# Secrets
 .env
 .env.*
+*.key
