@@ -1,21 +1,50 @@
+
+import numpy as np
 import torch
 from transformers import WavLMModel
 
-device = torch.device(
-    "mps" if torch.backends.mps.is_available() else "cpu"
-)
+from src.preprocessing import load_audio
+from src.features import extract_features
 
-model = WavLMModel.from_pretrained(
-    "microsoft/wavlm-base"
-).to(device)
 
-model.eval()
+def main():
+    # Select Apple GPU if available
+    device = torch.device(
+        "mps" if torch.backends.mps.is_available() else "cpu"
+    )
 
-# Synthetic input only tests execution, not detection.
-audio = torch.zeros(1, 16000, device=device)
+    print("Device:", device)
 
-with torch.inference_mode():
-    output = model(input_values=audio)
+    # Load pretrained WavLM Base
+    model = WavLMModel.from_pretrained(
+        "microsoft/wavlm-base"
+    ).to(device)
 
-print("Device:", device)
-print("Output shape:", output.last_hidden_state.shape)
+    model.eval()
+
+    # Load the existing audio test recording
+    audio, sr = load_audio(
+        "tests/fixtures/test.aiff",
+        target_sr=16000
+    )
+
+    print("Sample rate:", sr)
+    print("Audio shape:", audio.shape)
+    print("Duration:", round(len(audio) / sr, 3), "seconds")
+
+    # Test your feature-extraction function
+    features = extract_features(audio, model, device)
+
+    print("Feature shape:", features.shape)
+    print("All values finite:", np.isfinite(features).all())
+
+    # Verify expected output
+    assert sr == 16000
+    assert features.shape == (1, 768)
+    assert np.isfinite(features).all()
+
+    print("All WavLM feature extraction tests passed!")
+
+
+if __name__ == "__main__":
+    main()
