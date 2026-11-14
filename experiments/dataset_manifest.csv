@@ -1,0 +1,401 @@
+filepath,label,source,split
+data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_19_f000034.wav,1,Kyutai-TTS,train
+data/mlaad-tiny/fake/en/Maya1 TTS/wives_and_daughters_22_f000112.wav,1,Maya1 TTS,train
+data/mlaad-tiny/fake/en/Nari Dia-1.6B/pink_fairy_book_39_f000044.wav,1,Nari Dia-1.6B,train
+data/mlaad-tiny/fake/en/Kitten-TTS-Nano-0.2/wives_and_daughters_10_f000310.wav,1,Kitten-TTS-Nano-0.2,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_12_f000118.wav,0,emerald_city_of_oz_12_f000118,validation
+data/mlaad-tiny/original/en/hunters_space_01_f000009.wav,0,hunters_space_01_f000009,train
+data/mlaad-tiny/fake/en/FishTTS/northandsouth_15_f000249.wav,1,FishTTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_08_f000096.wav,0,dorothy_and_wizard_oz_08_f000096,train
+data/mlaad-tiny/fake/en/Nari Dia-1.6B/the_master_key_13_f000066.wav,1,Nari Dia-1.6B,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_28_f000068.wav,0,emerald_city_of_oz_28_f000068,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_01_f000045.wav,0,dorothy_and_wizard_oz_01_f000045,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_05_f000106.wav,0,dorothy_and_wizard_oz_05_f000106,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_07_f000056.wav,0,emerald_city_of_oz_07_f000056,train
+data/mlaad-tiny/original/en/hunters_space_07_f000003.wav,0,hunters_space_07_f000003,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_04_f000005.wav,0,emerald_city_of_oz_04_f000005,train
+data/mlaad-tiny/fake/en/Kani-TTS-370M/silent_bullet_11_f000261.wav,1,Kani-TTS-370M,validation
+data/mlaad-tiny/fake/en/Kitten-TTS-Nano-0.1/poisoned_pen_12_f000285.wav,1,Kitten-TTS-Nano-0.1,validation
+data/mlaad-tiny/fake/en/Kani-TTS-370M/wives_and_daughters_35_f000192.wav,1,Kani-TTS-370M,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_16_f000043.wav,0,emerald_city_of_oz_16_f000043,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_08_f000098.wav,0,dorothy_and_wizard_oz_08_f000098,train
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/jane_eyre_32_f000227.wav,1,Indri-TTS-0.1,train
+data/mlaad-tiny/fake/en/Nari Dia2/pink_fairy_book_39_f000008.wav,1,Nari Dia2,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_09_f000097.wav,0,emerald_city_of_oz_09_f000097,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_12_f000052.wav,0,emerald_city_of_oz_12_f000052,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_26_f000090.wav,0,emerald_city_of_oz_26_f000090,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,dorothy_and_wizard_oz_16_f000007,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_07_f000050.wav,0,emerald_city_of_oz_07_f000050,train
+data/mlaad-tiny/fake/en/Qwen2.5-Omni/jane_eyre_11_f000253.wav,1,Qwen2.5-Omni,train
+data/mlaad-tiny/fake/en/FireRedTTS-2.0/emerald_city_of_oz_08_f000073.wav,1,FireRedTTS-2.0,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_04_f000014.wav,0,emerald_city_of_oz_04_f000014,train
+data/mlaad-tiny/fake/en/OuteTTS/midnight_passenger_07_f000217.wav,1,OuteTTS,train
+data/mlaad-tiny/fake/en/Edge-TTS/piratesofersatz_05_leinster_64kb_f000027.wav,1,Edge-TTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_07_f000043.wav,0,dorothy_and_wizard_oz_07_f000043,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_14_f000096.wav,0,emerald_city_of_oz_14_f000096,train
+data/mlaad-tiny/fake/en/Metavoice-1B/rinkitink_baum_18_64kb_f000018.wav,1,Metavoice-1B,train
+data/mlaad-tiny/original/en/hunters_space_07_f000074.wav,0,hunters_space_07_f000074,train
+data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,Openaudio-S1-Mini,test
+data/mlaad-tiny/fake/en/FishTTS/pink_fairy_book_28_f000004.wav,1,FishTTS,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/wives_and_daughters_31_f000055.wav,1,Microsoft VibeVoice 1.5B,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_12_f000027.wav,0,dorothy_and_wizard_oz_12_f000027,train
+data/mlaad-tiny/fake/en/Higgs-Audio-V2/ozma_of_oz_07_f000037.wav,1,Higgs-Audio-V2,train
+data/mlaad-tiny/fake/en/DeepGram/pink_fairy_book_25_f000053.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_15_f000066.wav,0,emerald_city_of_oz_15_f000066,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_13_f000074.wav,0,dorothy_and_wizard_oz_13_f000074,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,dorothy_and_wizard_oz_17_f000014,test
+data/mlaad-tiny/original/en/hunters_space_08_f000081.wav,0,hunters_space_08_f000081,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_12_f000086.wav,0,emerald_city_of_oz_12_f000086,validation
+data/mlaad-tiny/fake/en/MatchaTTS/poisoned_pen_01_f000312.wav,1,MatchaTTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,dorothy_and_wizard_oz_19_f000066,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,emerald_city_of_oz_11_f000041,test
+data/mlaad-tiny/fake/en/Kani-TTS-370M/wives_and_daughters_32_f000083.wav,1,Kani-TTS-370M,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_14_f000106.wav,0,dorothy_and_wizard_oz_14_f000106,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,emerald_city_of_oz_11_f000090,test
+data/mlaad-tiny/fake/en/Kani-TTS-370M/jane_eyre_29_f000031.wav,1,Kani-TTS-370M,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_02_f000066.wav,0,dorothy_and_wizard_oz_02_f000066,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice Large/ozma_of_oz_08_f000016.wav,1,Microsoft VibeVoice Large,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,dorothy_and_wizard_oz_06_f000051,test
+data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,Metavoice-1B,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_21_f000088.wav,0,emerald_city_of_oz_21_f000088,train
+data/mlaad-tiny/fake/en/Cartesia.ai (Sonic-3)/hunters_space_12_f000054.wav,1,Cartesia.ai (Sonic-3),train
+data/mlaad-tiny/fake/en/Maya1 TTS/pink_fairy_book_37_f000076.wav,1,Maya1 TTS,validation
+data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,hunters_space_11_f000118,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_08_f000099.wav,0,dorothy_and_wizard_oz_08_f000099,train
+data/mlaad-tiny/fake/en/DeepGram/silent_bullet_05_f000179.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_01_f000067.wav,0,emerald_city_of_oz_01_f000067,train
+data/mlaad-tiny/fake/en/MeloTTS/midnight_passenger_08_f000062.wav,1,MeloTTS,train
+data/mlaad-tiny/fake/en/DeepGram/emerald_city_of_oz_14_f000041.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_05_f000068.wav,0,emerald_city_of_oz_05_f000068,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_03_f000114.wav,0,dorothy_and_wizard_oz_03_f000114,train
+data/mlaad-tiny/fake/en/MatchaTTS/wives_and_daughters_47_f000135.wav,1,MatchaTTS,validation
+data/mlaad-tiny/fake/en/FireRedTTS-2.0/wives_and_daughters_28_f000249.wav,1,FireRedTTS-2.0,train
+data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,hunters_space_10_f000009,test
+data/mlaad-tiny/fake/en/Kitten-TTS-Nano-0.2/skyisland_15_baum_64kb_f000054.wav,1,Kitten-TTS-Nano-0.2,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_25_f000010.wav,0,emerald_city_of_oz_25_f000010,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_19_f000035.wav,0,emerald_city_of_oz_19_f000035,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/pink_fairy_book_02_f000061.wav,1,Microsoft VibeVoice 1.5B,validation
+data/mlaad-tiny/fake/en/MeloTTS/northandsouth_41_f000055.wav,1,MeloTTS,train
+data/mlaad-tiny/fake/en/DeepGram/wives_and_daughters_10_f000359.wav,1,DeepGram,train
+data/mlaad-tiny/fake/en/Llasa-8B/wives_and_daughters_58_f000148.wav,1,Llasa-8B,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_18_f000002.wav,0,emerald_city_of_oz_18_f000002,train
+data/mlaad-tiny/fake/en/DeepGram/northandsouth_37_f000007.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_15_f000107.wav,0,emerald_city_of_oz_15_f000107,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/wives_and_daughters_01_f000168.wav,1,Microsoft VibeVoice 1.5B,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_14_f000111.wav,0,dorothy_and_wizard_oz_14_f000111,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_20_f000061.wav,0,emerald_city_of_oz_20_f000061,train
+data/mlaad-tiny/fake/en/Cartesia.ai (Sonic-3)/poisoned_pen_04_f000178.wav,1,Cartesia.ai (Sonic-3),train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_05_f000007.wav,0,dorothy_and_wizard_oz_05_f000007,train
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/wives_and_daughters_30_f000017.wav,1,Indri-TTS-0.1,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_24_f000056.wav,0,emerald_city_of_oz_24_f000056,train
+data/mlaad-tiny/fake/en/DeepGram/wives_and_daughters_35_f000269.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_13_f000057.wav,0,dorothy_and_wizard_oz_13_f000057,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_02_f000021.wav,0,dorothy_and_wizard_oz_02_f000021,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,dorothy_and_wizard_oz_20_f000022,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_10_f000039.wav,0,dorothy_and_wizard_oz_10_f000039,validation
+data/mlaad-tiny/fake/en/Maya1 TTS/wives_and_daughters_30_f000166.wav,1,Maya1 TTS,train
+data/mlaad-tiny/fake/en/OpenVoiceV2/wives_and_daughters_17_f000227.wav,1,OpenVoiceV2,validation
+data/mlaad-tiny/fake/en/Metavoice-1B/jane_eyre_34_f000346.wav,1,Metavoice-1B,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_07_f000046.wav,0,dorothy_and_wizard_oz_07_f000046,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,Microsoft VibeVoice 1.5B,test
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/northandsouth_33_f000098.wav,1,Indri-TTS-0.1,validation
+data/mlaad-tiny/fake/en/Microsoft VibeVoice Large/jane_eyre_20_f000008.wav,1,Microsoft VibeVoice Large,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_12_f000106.wav,0,dorothy_and_wizard_oz_12_f000106,train
+data/mlaad-tiny/fake/en/FishTTS/wives_and_daughters_02_f000297.wav,1,FishTTS,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,dorothy_and_wizard_oz_16_f000031,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_25_f000003.wav,0,emerald_city_of_oz_25_f000003,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_08_f000065.wav,0,dorothy_and_wizard_oz_08_f000065,train
+data/mlaad-tiny/fake/en/Qwen2.5-Omni/the_sea_fairies_01_f000099.wav,1,Qwen2.5-Omni,train
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/northandsouth_37_f000174.wav,1,Indri-TTS-0.1,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_17_f000045.wav,0,emerald_city_of_oz_17_f000045,train
+data/mlaad-tiny/fake/en/MiniCPM-o-2.6/wives_and_daughters_11_f000252.wav,1,MiniCPM-o-2.6,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,emerald_city_of_oz_22_f000048,test
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/the_sea_fairies_11_f000076.wav,1,Indri-TTS-0.1,validation
+data/mlaad-tiny/fake/en/Nari Dia2/poisoned_pen_08_f000016.wav,1,Nari Dia2,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_20_f000073.wav,0,emerald_city_of_oz_20_f000073,train
+data/mlaad-tiny/original/en/hunters_space_04_f000001.wav,0,hunters_space_04_f000001,train
+data/mlaad-tiny/fake/en/Maya1 TTS/skyisland_01_baum_64kb_f000079.wav,1,Maya1 TTS,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice Large/jane_eyre_18_f000287.wav,1,Microsoft VibeVoice Large,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,emerald_city_of_oz_22_f000009,test
+data/mlaad-tiny/fake/en/Nari Dia2/dorothy_and_wizard_oz_11_f000008.wav,1,Nari Dia2,train
+"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/wives_and_daughters_21_f000225.wav",1,"Resemble.ai (April 12th, 2025)",train
+data/mlaad-tiny/original/en/hunters_space_02_f000032.wav,0,hunters_space_02_f000032,train
+data/mlaad-tiny/fake/en/Nari Dia2/pink_fairy_book_30_f000082.wav,1,Nari Dia2,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_05_f000058.wav,0,dorothy_and_wizard_oz_05_f000058,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_03_f000016.wav,0,dorothy_and_wizard_oz_03_f000016,train
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/wives_and_daughters_47_f000097.wav,1,Indri-TTS-0.1,validation
+data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,hunters_space_11_f000045,test
+data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,Index-TTS-2.0,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_13_f000016.wav,0,emerald_city_of_oz_13_f000016,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_17_f000017.wav,0,emerald_city_of_oz_17_f000017,train
+data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,OpenVoiceV2,test
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/northandsouth_16_f000081.wav,1,Ringg Squirrel TTS v1.0,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,dorothy_and_wizard_oz_17_f000038,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,dorothy_and_wizard_oz_06_f000014,test
+data/mlaad-tiny/original/en/hunters_space_01_f000040.wav,0,hunters_space_01_f000040,train
+data/mlaad-tiny/fake/en/MeloTTS/the_sea_fairies_02_f000031.wav,1,MeloTTS,validation
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_36_f000118.wav,1,Ringg Squirrel TTS v1.0,train
+data/mlaad-tiny/fake/en/DeepGram/the_sea_fairies_11_f000066.wav,1,DeepGram,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,emerald_city_of_oz_10_f000117,test
+data/mlaad-tiny/fake/en/Nari Dia2/rinkitink_baum_08_64kb_f000041.wav,1,Nari Dia2,validation
+data/mlaad-tiny/fake/en/Kitten-TTS-Nano-0.1/northandsouth_28_f000290.wav,1,Kitten-TTS-Nano-0.1,validation
+data/mlaad-tiny/fake/en/Chatterbox/northandsouth_06_f000004.wav,1,Chatterbox,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_14_f000085.wav,0,emerald_city_of_oz_14_f000085,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_14_f000042.wav,0,dorothy_and_wizard_oz_14_f000042,train
+data/mlaad-tiny/fake/en/Mars5/rinkitink_baum_02_64kb_f000063.wav,1,Mars5,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,emerald_city_of_oz_11_f000029,test
+data/mlaad-tiny/fake/en/Maya1 TTS/northandsouth_17_f000024.wav,1,Maya1 TTS,train
+data/mlaad-tiny/fake/en/Index-TTS-1.5/the_sea_fairies_15_f000139.wav,1,Index-TTS-1.5,train
+data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,hunters_space_10_f000106,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_07_f000071.wav,0,emerald_city_of_oz_07_f000071,train
+data/mlaad-tiny/original/en/hunters_space_08_f000029.wav,0,hunters_space_08_f000029,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,dorothy_and_wizard_oz_19_f000002,test
+data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,hunters_space_05_f000123,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,emerald_city_of_oz_23_f000060,test
+data/mlaad-tiny/fake/en/DeepGram/northandsouth_40_f000021.wav,1,DeepGram,train
+data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,Kyutai-TTS,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_09_f000010.wav,0,emerald_city_of_oz_09_f000010,train
+data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,Index-TTS-1.5,test
+data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,hunters_space_11_f000073,test
+data/mlaad-tiny/fake/en/DeepGram/northandsouth_44_f000188.wav,1,DeepGram,train
+data/mlaad-tiny/fake/en/FishTTS/jane_eyre_24_f000146.wav,1,FishTTS,validation
+data/mlaad-tiny/fake/en/NeuTTS-Air/wives_and_daughters_60_f000119.wav,1,NeuTTS-Air,train
+data/mlaad-tiny/fake/en/MiniCPM-o-2.6/midnight_passenger_10_f000058.wav,1,MiniCPM-o-2.6,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_29_f000057.wav,0,emerald_city_of_oz_29_f000057,train
+data/mlaad-tiny/fake/en/Metavoice-1B/jane_eyre_20_f000093.wav,1,Metavoice-1B,validation
+data/mlaad-tiny/fake/en/Chatterbox/poisoned_pen_12_f000039.wav,1,Chatterbox,validation
+data/mlaad-tiny/fake/en/Nari Dia-1.6B/wives_and_daughters_60_f000363.wav,1,Nari Dia-1.6B,train
+data/mlaad-tiny/fake/en/Nari Dia2/jane_eyre_10_f000090.wav,1,Nari Dia2,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_07_f000074.wav,0,emerald_city_of_oz_07_f000074,train
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/dorothy_and_wizard_oz_11_f000014.wav,1,Indri-TTS-0.1,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_12_f000071.wav,0,dorothy_and_wizard_oz_12_f000071,train
+data/mlaad-tiny/fake/en/Mars5/piratesofersatz_08_leinster_64kb_f000086.wav,1,Mars5,train
+data/mlaad-tiny/fake/en/Cartesia.ai (Sonic-3)/wives_and_daughters_10_f000202.wav,1,Cartesia.ai (Sonic-3),train
+data/mlaad-tiny/fake/en/Edge-TTS/wives_and_daughters_20_f000144.wav,1,Edge-TTS,train
+data/mlaad-tiny/fake/en/Nari Dia2/skyisland_22_baum_64kb_f000066.wav,1,Nari Dia2,train
+data/mlaad-tiny/fake/en/FireRedTTS-2.0/wives_and_daughters_51_f000173.wav,1,FireRedTTS-2.0,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_03_f000011.wav,0,dorothy_and_wizard_oz_03_f000011,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_15_f000097.wav,0,emerald_city_of_oz_15_f000097,train
+data/mlaad-tiny/original/en/hunters_space_06_f000064.wav,0,hunters_space_06_f000064,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_03_f000040.wav,0,emerald_city_of_oz_03_f000040,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,emerald_city_of_oz_10_f000116,test
+data/mlaad-tiny/fake/en/NeuTTS-Air/midnight_passenger_15_f000153.wav,1,NeuTTS-Air,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_17_f000097.wav,0,emerald_city_of_oz_17_f000097,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,dorothy_and_wizard_oz_20_f000018,test
+data/mlaad-tiny/fake/en/MatchaTTS/jane_eyre_34_f000110.wav,1,MatchaTTS,validation
+data/mlaad-tiny/fake/en/Maya1 TTS/northandsouth_17_f000093.wav,1,Maya1 TTS,train
+data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,hunters_space_10_f000114,test
+data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,FireRedTTS-2.0,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_03_f000062.wav,0,emerald_city_of_oz_03_f000062,train
+data/mlaad-tiny/fake/en/Kitten-TTS-Nano-0.2/jane_eyre_15_f000041.wav,1,Kitten-TTS-Nano-0.2,train
+data/mlaad-tiny/original/en/hunters_space_04_f000089.wav,0,hunters_space_04_f000089,train
+data/mlaad-tiny/fake/en/Index-TTS-1.5/wives_and_daughters_11_f000256.wav,1,Index-TTS-1.5,train
+data/mlaad-tiny/fake/en/Mars5/wives_and_daughters_16_f000131.wav,1,Mars5,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,dorothy_and_wizard_oz_16_f000050,test
+data/mlaad-tiny/fake/en/Maya1 TTS/wives_and_daughters_21_f000268.wav,1,Maya1 TTS,train
+data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,hunters_space_05_f000072,test
+data/mlaad-tiny/original/en/hunters_space_07_f000032.wav,0,hunters_space_07_f000032,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_09_f000019.wav,0,emerald_city_of_oz_09_f000019,train
+data/mlaad-tiny/fake/en/Kani-TTS-370M/emerald_city_of_oz_25_f000007.wav,1,Kani-TTS-370M,train
+data/mlaad-tiny/fake/en/Openaudio-S1-Mini/jane_eyre_25_f000124.wav,1,Openaudio-S1-Mini,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_14_f000024.wav,0,emerald_city_of_oz_14_f000024,train
+data/mlaad-tiny/fake/en/SoulX-Podcast/jane_eyre_04_f000081.wav,1,SoulX-Podcast,train
+data/mlaad-tiny/fake/en/Metavoice-1B/the_master_key_08_f000032.wav,1,Metavoice-1B,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_14_f000079.wav,0,emerald_city_of_oz_14_f000079,train
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/skyisland_10_baum_64kb_f000073.wav,1,Indri-TTS-0.1,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_03_f000012.wav,0,dorothy_and_wizard_oz_03_f000012,train
+data/mlaad-tiny/fake/en/MegaTTS3/wives_and_daughters_11_f000037.wav,1,MegaTTS3,train
+data/mlaad-tiny/fake/en/Edge-TTS/jane_eyre_12_f000050.wav,1,Edge-TTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_18_f000071.wav,0,dorothy_and_wizard_oz_18_f000071,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_01_f000006.wav,0,dorothy_and_wizard_oz_01_f000006,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_06_f000049.wav,0,emerald_city_of_oz_06_f000049,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_21_f000022.wav,0,emerald_city_of_oz_21_f000022,train
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/silent_bullet_13_f000149.wav,1,Ringg Squirrel TTS v1.0,train
+data/mlaad-tiny/fake/en/Index-TTS-1.5/pink_fairy_book_30_f000084.wav,1,Index-TTS-1.5,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_18_f000066.wav,0,dorothy_and_wizard_oz_18_f000066,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_12_f000066.wav,0,dorothy_and_wizard_oz_12_f000066,train
+data/mlaad-tiny/fake/en/Llasa-8B/piratesofersatz_05_leinster_64kb_f000217.wav,1,Llasa-8B,train
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,Ringg Squirrel TTS v1.0,test
+data/mlaad-tiny/fake/en/DeepGram/wives_and_daughters_02_f000112.wav,1,DeepGram,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,emerald_city_of_oz_11_f000026,test
+data/mlaad-tiny/fake/en/FireRedTTS-2.0/dorothy_and_wizard_oz_14_f000119.wav,1,FireRedTTS-2.0,train
+data/mlaad-tiny/fake/en/OpenVoiceV2/wives_and_daughters_29_f000212.wav,1,OpenVoiceV2,train
+data/mlaad-tiny/fake/en/Mars5/northandsouth_28_f000120.wav,1,Mars5,validation
+data/mlaad-tiny/fake/en/Kani-TTS-370M/jane_eyre_20_f000283.wav,1,Kani-TTS-370M,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_09_f000048.wav,0,emerald_city_of_oz_09_f000048,train
+"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/jane_eyre_31_f000098.wav",1,"Resemble.ai (April 12th, 2025)",train
+data/mlaad-tiny/fake/en/Maya1 TTS/jane_eyre_15_f000065.wav,1,Maya1 TTS,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_05_f000062.wav,0,emerald_city_of_oz_05_f000062,validation
+data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,Metavoice-1B,test
+data/mlaad-tiny/fake/en/OpenVoiceV2/rinkitink_baum_03_64kb_f000058.wav,1,OpenVoiceV2,train
+data/mlaad-tiny/fake/en/DeepGram/northandsouth_08_f000158.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_02_f000050.wav,0,emerald_city_of_oz_02_f000050,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_05_f000049.wav,0,dorothy_and_wizard_oz_05_f000049,train
+data/mlaad-tiny/fake/en/DeepGram/pink_fairy_book_13_f000028.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_02_f000105.wav,0,dorothy_and_wizard_oz_02_f000105,train
+data/mlaad-tiny/original/en/hunters_space_12_f000038.wav,0,hunters_space_12_f000038,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_11_f000097.wav,0,dorothy_and_wizard_oz_11_f000097,train
+data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,hunters_space_11_f000081,test
+data/mlaad-tiny/original/en/hunters_space_12_f000034.wav,0,hunters_space_12_f000034,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_09_f000010.wav,0,dorothy_and_wizard_oz_09_f000010,train
+data/mlaad-tiny/fake/en/DeepGram/emerald_city_of_oz_29_f000051.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_28_f000041.wav,0,emerald_city_of_oz_28_f000041,train
+data/mlaad-tiny/fake/en/Qwen2.5-Omni/hunters_space_02_f000090.wav,1,Qwen2.5-Omni,train
+data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,hunters_space_10_f000017,test
+data/mlaad-tiny/fake/en/OpenVoiceV2/wives_and_daughters_54_f000214.wav,1,OpenVoiceV2,train
+data/mlaad-tiny/fake/en/Marvis-TTS/wives_and_daughters_53_f000118.wav,1,Marvis-TTS,validation
+data/mlaad-tiny/fake/en/Maya1 TTS/wives_and_daughters_18_f000023.wav,1,Maya1 TTS,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_17_f000081.wav,0,emerald_city_of_oz_17_f000081,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_21_f000059.wav,0,emerald_city_of_oz_21_f000059,train
+data/mlaad-tiny/fake/en/MatchaTTS/northandsouth_42_f000173.wav,1,MatchaTTS,train
+data/mlaad-tiny/original/en/hunters_space_12_f000017.wav,0,hunters_space_12_f000017,train
+data/mlaad-tiny/fake/en/RVC/jane_eyre_04_f000074.wav,1,RVC,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_26_f000101.wav,0,emerald_city_of_oz_26_f000101,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_09_f000109.wav,0,emerald_city_of_oz_09_f000109,train
+data/mlaad-tiny/fake/en/OpenVoiceV2/jane_eyre_32_f000093.wav,1,OpenVoiceV2,train
+data/mlaad-tiny/fake/en/Mars5/silent_bullet_13_f000064.wav,1,Mars5,train
+data/mlaad-tiny/fake/en/Index-TTS-2.0/the_master_key_02_f000056.wav,1,Index-TTS-2.0,train
+data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_34_f000027.wav,1,Marvis-TTS,train
+data/mlaad-tiny/fake/en/Index-TTS-2.0/northandsouth_21_f000144.wav,1,Index-TTS-2.0,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_01_f000031.wav,0,dorothy_and_wizard_oz_01_f000031,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice Large/wives_and_daughters_21_f000207.wav,1,Microsoft VibeVoice Large,train
+data/mlaad-tiny/fake/en/SoulX-Podcast/northandsouth_28_f000245.wav,1,SoulX-Podcast,validation
+data/mlaad-tiny/fake/en/MeloTTS/wives_and_daughters_54_f000200.wav,1,MeloTTS,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/wives_and_daughters_29_f000053.wav,1,Microsoft VibeVoice 1.5B,train
+data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,Mars5,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_08_f000016.wav,0,dorothy_and_wizard_oz_08_f000016,train
+data/mlaad-tiny/fake/en/Index-TTS-2.0/wives_and_daughters_28_f000226.wav,1,Index-TTS-2.0,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_04_f000072.wav,0,dorothy_and_wizard_oz_04_f000072,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_17_f000094.wav,0,emerald_city_of_oz_17_f000094,train
+data/mlaad-tiny/fake/en/Indri-TTS-0.1/silent_bullet_06_f000222.wav,1,Indri-TTS-0.1,train
+data/mlaad-tiny/fake/en/MeloTTS/emerald_city_of_oz_21_f000059.wav,1,MeloTTS,train
+data/mlaad-tiny/fake/en/Marvis-TTS/the_master_key_07_f000033.wav,1,Marvis-TTS,train
+data/mlaad-tiny/fake/en/Qwen2.5-Omni/jane_eyre_04_f000095.wav,1,Qwen2.5-Omni,train
+data/mlaad-tiny/fake/en/Index-TTS-1.5/poisoned_pen_11_f000350.wav,1,Index-TTS-1.5,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_14_f000041.wav,0,emerald_city_of_oz_14_f000041,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_28_f000073.wav,0,emerald_city_of_oz_28_f000073,train
+data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,Edge-TTS,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_17_f000114.wav,0,emerald_city_of_oz_17_f000114,train
+data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,OpenVoiceV2,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_21_f000038.wav,0,emerald_city_of_oz_21_f000038,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_03_f000048.wav,0,dorothy_and_wizard_oz_03_f000048,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_15_f000031.wav,0,emerald_city_of_oz_15_f000031,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_09_f000124.wav,0,dorothy_and_wizard_oz_09_f000124,train
+data/mlaad-tiny/fake/en/Llasa-8B/northandsouth_15_f000256.wav,1,Llasa-8B,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_09_f000102.wav,0,dorothy_and_wizard_oz_09_f000102,train
+data/mlaad-tiny/original/en/hunters_space_08_f000074.wav,0,hunters_space_08_f000074,train
+data/mlaad-tiny/fake/en/Kani-TTS-370M/jane_eyre_11_f000251.wav,1,Kani-TTS-370M,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_05_f000024.wav,0,dorothy_and_wizard_oz_05_f000024,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_02_f000008.wav,0,dorothy_and_wizard_oz_02_f000008,train
+data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,hunters_space_05_f000042,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_15_f000103.wav,0,dorothy_and_wizard_oz_15_f000103,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_14_f000006.wav,0,dorothy_and_wizard_oz_14_f000006,train
+data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_04_f000134.wav,1,Marvis-TTS,train
+data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,OuteTTS,test
+data/mlaad-tiny/fake/en/Mars5/pink_fairy_book_10_f000124.wav,1,Mars5,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_01_f000020.wav,0,emerald_city_of_oz_01_f000020,train
+data/mlaad-tiny/original/en/hunters_space_07_f000049.wav,0,hunters_space_07_f000049,train
+data/mlaad-tiny/fake/en/MeloTTS/wives_and_daughters_10_f000150.wav,1,MeloTTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_09_f000014.wav,0,dorothy_and_wizard_oz_09_f000014,train
+data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,hunters_space_10_f000045,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_14_f000118.wav,0,dorothy_and_wizard_oz_14_f000118,train
+data/mlaad-tiny/fake/en/Higgs-Audio-V2/northandsouth_25_f000077.wav,1,Higgs-Audio-V2,train
+data/mlaad-tiny/fake/en/RVC/northandsouth_33_f000036.wav,1,RVC,validation
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/northandsouth_04_f000045.wav,1,Ringg Squirrel TTS v1.0,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_05_f000091.wav,0,dorothy_and_wizard_oz_05_f000091,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_02_f000048.wav,0,emerald_city_of_oz_02_f000048,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_24_f000069.wav,0,emerald_city_of_oz_24_f000069,train
+data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,Metavoice-1B,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_16_f000074.wav,0,emerald_city_of_oz_16_f000074,validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_12_f000058.wav,0,dorothy_and_wizard_oz_12_f000058,train
+data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,hunters_space_11_f000076,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_03_f000069.wav,0,dorothy_and_wizard_oz_03_f000069,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_12_f000132.wav,0,dorothy_and_wizard_oz_12_f000132,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_02_f000004.wav,0,emerald_city_of_oz_02_f000004,train
+data/mlaad-tiny/fake/en/MeloTTS/rinkitink_baum_08_64kb_f000022.wav,1,MeloTTS,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,emerald_city_of_oz_22_f000076,test
+data/mlaad-tiny/fake/en/Nari Dia-1.6B/wives_and_daughters_52_f000088.wav,1,Nari Dia-1.6B,train
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,Ringg Squirrel TTS v1.0,test
+data/mlaad-tiny/fake/en/Edge-TTS/northandsouth_05_f000035.wav,1,Edge-TTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_02_f000095.wav,0,dorothy_and_wizard_oz_02_f000095,train
+data/mlaad-tiny/fake/en/Edge-TTS/wives_and_daughters_56_f000152.wav,1,Edge-TTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_03_f000108.wav,0,dorothy_and_wizard_oz_03_f000108,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_01_f000033.wav,0,dorothy_and_wizard_oz_01_f000033,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_15_f000099.wav,0,emerald_city_of_oz_15_f000099,train
+data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,DeepGram,test
+data/mlaad-tiny/fake/en/OpenVoiceV2/wives_and_daughters_11_f000098.wav,1,OpenVoiceV2,train
+data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,Higgs-Audio-V2,test
+data/mlaad-tiny/fake/en/Llasa-1B-Multilingual/pink_fairy_book_14_f000003.wav,1,Llasa-1B-Multilingual,train
+data/mlaad-tiny/fake/en/Openaudio-S1-Mini/wives_and_daughters_17_f000182.wav,1,Openaudio-S1-Mini,validation
+data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,hunters_space_05_f000032,test
+data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,hunters_space_05_f000127,test
+data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_16_f000086.wav,1,Higgs-Audio-V2,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_04_f000025.wav,0,dorothy_and_wizard_oz_04_f000025,train
+data/mlaad-tiny/original/en/hunters_space_07_f000004.wav,0,hunters_space_07_f000004,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,dorothy_and_wizard_oz_06_f000012,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_09_f000081.wav,0,emerald_city_of_oz_09_f000081,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_05_f000091.wav,0,emerald_city_of_oz_05_f000091,validation
+data/mlaad-tiny/fake/en/Maya1 TTS/pink_fairy_book_19_f000004.wav,1,Maya1 TTS,validation
+data/mlaad-tiny/fake/en/NeuTTS-Air/piratesofersatz_08_leinster_64kb_f000084.wav,1,NeuTTS-Air,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_12_f000033.wav,0,dorothy_and_wizard_oz_12_f000033,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_11_f000014.wav,0,dorothy_and_wizard_oz_11_f000014,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_19_f000025.wav,0,emerald_city_of_oz_19_f000025,train
+data/mlaad-tiny/fake/en/Cartesia.ai (Sonic-3)/jane_eyre_31_f000110.wav,1,Cartesia.ai (Sonic-3),train
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,Ringg Squirrel TTS v1.0,test
+data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,DeepGram,test
+"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,"Resemble.ai (April 12th, 2025)",test
+data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,hunters_space_05_f000109,test
+data/mlaad-tiny/original/en/hunters_space_01_f000019.wav,0,hunters_space_01_f000019,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_07_f000100.wav,0,emerald_city_of_oz_07_f000100,train
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,Ringg Squirrel TTS v1.0,test
+data/mlaad-tiny/original/en/hunters_space_04_f000018.wav,0,hunters_space_04_f000018,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_14_f000082.wav,0,dorothy_and_wizard_oz_14_f000082,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_12_f000082.wav,0,dorothy_and_wizard_oz_12_f000082,train
+"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/wives_and_daughters_40_f000094.wav",1,"Resemble.ai (April 12th, 2025)",validation
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,dorothy_and_wizard_oz_19_f000069,test
+data/mlaad-tiny/original/en/hunters_space_02_f000017.wav,0,hunters_space_02_f000017,train
+data/mlaad-tiny/fake/en/DeepGram/the_sea_fairies_12_f000141.wav,1,DeepGram,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_15_f000110.wav,0,dorothy_and_wizard_oz_15_f000110,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_05_f000032.wav,0,dorothy_and_wizard_oz_05_f000032,train
+data/mlaad-tiny/fake/en/Qwen2.5-Omni/hunters_space_16_f000083.wav,1,Qwen2.5-Omni,train
+data/mlaad-tiny/fake/en/Marvis-TTS/jane_eyre_28_f000330.wav,1,Marvis-TTS,train
+data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,Marvis-TTS,test
+data/mlaad-tiny/fake/en/MatchaTTS/silent_bullet_05_f000207.wav,1,MatchaTTS,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,Microsoft VibeVoice 1.5B,test
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,Microsoft VibeVoice 1.5B,test
+data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_master_key_03_f000082.wav,1,Higgs-Audio-V2,train
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_33_f000202.wav,1,Ringg Squirrel TTS v1.0,train
+data/mlaad-tiny/original/en/hunters_space_07_f000061.wav,0,hunters_space_07_f000061,train
+data/mlaad-tiny/fake/en/Openaudio-S1-Mini/silent_bullet_03_f000008.wav,1,Openaudio-S1-Mini,train
+data/mlaad-tiny/fake/en/Edge-TTS/wives_and_daughters_28_f000114.wav,1,Edge-TTS,train
+data/mlaad-tiny/fake/en/Index-TTS-2.0/silent_bullet_03_f000263.wav,1,Index-TTS-2.0,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_28_f000006.wav,0,emerald_city_of_oz_28_f000006,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_26_f000019.wav,0,emerald_city_of_oz_26_f000019,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,emerald_city_of_oz_11_f000043,test
+data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,emerald_city_of_oz_23_f000061,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_15_f000027.wav,0,dorothy_and_wizard_oz_15_f000027,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_09_f000052.wav,0,emerald_city_of_oz_09_f000052,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/jane_eyre_21_f000067.wav,1,Microsoft VibeVoice 1.5B,validation
+data/mlaad-tiny/fake/en/Kitten-TTS-Nano-0.2/wives_and_daughters_53_f000067.wav,1,Kitten-TTS-Nano-0.2,validation
+data/mlaad-tiny/fake/en/Kyutai-TTS/poisoned_pen_10_f000067.wav,1,Kyutai-TTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_14_f000119.wav,0,dorothy_and_wizard_oz_14_f000119,train
+data/mlaad-tiny/fake/en/RVC/emerald_city_of_oz_26_f000009.wav,1,RVC,validation
+data/mlaad-tiny/fake/en/Microsoft VibeVoice Large/northandsouth_46_f000243.wav,1,Microsoft VibeVoice Large,train
+data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,hunters_space_10_f000058,test
+data/mlaad-tiny/fake/en/DeepGram/jane_eyre_34_f000131.wav,1,DeepGram,validation
+data/mlaad-tiny/fake/en/Nari Dia-1.6B/skyisland_07_baum_64kb_f000041.wav,1,Nari Dia-1.6B,validation
+data/mlaad-tiny/fake/en/Edge-TTS/northandsouth_27_f000094.wav,1,Edge-TTS,train
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_15_f000011.wav,0,dorothy_and_wizard_oz_15_f000011,train
+data/mlaad-tiny/original/en/hunters_space_06_f000061.wav,0,hunters_space_06_f000061,train
+data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/northandsouth_33_f000064.wav,1,Microsoft VibeVoice 1.5B,validation
+data/mlaad-tiny/original/en/emerald_city_of_oz_08_f000002.wav,0,emerald_city_of_oz_08_f000002,train
+data/mlaad-tiny/fake/en/Nari Dia-1.6B/rinkitink_baum_13_64kb_f000100.wav,1,Nari Dia-1.6B,train
+data/mlaad-tiny/original/en/hunters_space_04_f000039.wav,0,hunters_space_04_f000039,train
+data/mlaad-tiny/fake/en/Index-TTS-2.0/skyisland_14_baum_64kb_f000082.wav,1,Index-TTS-2.0,train
+data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_24_f000026.wav,1,Marvis-TTS,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,emerald_city_of_oz_11_f000113,test
+data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_53_f000033.wav,1,Ringg Squirrel TTS v1.0,validation
+data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,hunters_space_11_f000108,test
+data/mlaad-tiny/original/en/dorothy_and_wizard_oz_03_f000079.wav,0,dorothy_and_wizard_oz_03_f000079,train
+data/mlaad-tiny/original/en/emerald_city_of_oz_20_f000017.wav,0,emerald_city_of_oz_20_f000017,train
+data/mlaad-tiny/fake/en/MegaTTS3/rinkitink_baum_04_64kb_f000114.wav,1,MegaTTS3,train

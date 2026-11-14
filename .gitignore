@@ -15,3 +15,7 @@ results/
 .env
 .env.*
 *.key
+
+# Generated audio test fixtures
+tests/fixtures/*.aiff
+tests/fixtures/*.wav
