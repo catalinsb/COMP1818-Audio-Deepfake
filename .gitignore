@@ -18,4 +18,4 @@ results/
 
 # Generated audio test fixtures
 tests/fixtures/*.aiff
-tests/fixtures/*.wav
+tests/fixtures/*.wavexperiments/*.npz
