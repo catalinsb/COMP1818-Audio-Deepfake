@@ -1,0 +1,1105 @@
+model,condition,filepath,true_label,predicted_label,spoof_probability
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.001473078388248994
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,4.9989666898530986e-05
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,0.001880914354901076
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.0038145258269068837
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.011081586307555015
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,7.551063631026571e-05
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.008042553065572956
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,3.228427137406798e-05
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,4.611646536783056e-05
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.0003596277238416545
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,0.0004584778091988232
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,0.0002535699769491068
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,0.00013433032647686296
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.0016153294784981898
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,0.0004920804997658433
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.010568024663867755
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,8.07620099156201e-05
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,0.0021930283941981234
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.055680543278594716
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.0002611746318732051
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.002277703513550306
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.003726638870976982
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.0046013762065937325
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.0217089159049888
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.00447889619731513
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.002242628435212006
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.0002995908524106625
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.0014692576073668984
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,0.00032862388086093606
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0012038542206868202
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.016758451980503544
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.015602754427497208
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.0005320687228868689
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,0.0002351456295108215
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.0020801507030417396
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.007413858032122858
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.0011532333272093033
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.0005941440874364967
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.0002111831778560827
+Baseline,clean,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.0008945140400298201
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.0005433252801886949
+Baseline,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,0.0031680302838518947
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.007214195989795724
+Baseline,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,4.495305240826898e-06
+Baseline,clean,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9973785346889873
+Baseline,clean,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9996744639002065
+Baseline,clean,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.06692403086500454
+Baseline,clean,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9998891156184225
+Baseline,clean,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.9989603147514063
+Baseline,clean,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9999011937591435
+Baseline,clean,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9683791530107467
+Baseline,clean,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999998044786538
+Baseline,clean,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9999567534367735
+Baseline,clean,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999988326485552
+Baseline,clean,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.7287158868165682
+Baseline,clean,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999745034535563
+Baseline,clean,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999507661261892
+Baseline,clean,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999841813587458
+Baseline,clean,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9771833288274829
+Baseline,clean,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999700774752119
+Baseline,clean,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999935041852656
+Baseline,clean,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999981050118033
+Baseline,clean,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999942787454923
+Baseline,clean,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.999995135770225
+Baseline,clean,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999294929941335
+Baseline,clean,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9631862565864685
+Baseline,clean,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9999069409452019
+Baseline,clean,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999568227733432
+Baseline,clean,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9989860400155657
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.01301491273730801
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.00016741929296554617
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,2.773804167457642e-05
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.001841059707937229
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.01658617424557055
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.0034420266074446587
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.00040873390836687124
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,5.389418975994621e-08
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,0.000361713049982584
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.0012779767009546087
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,7.997959244680479e-05
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,7.58618706494515e-05
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,9.380542814424175e-07
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.007126446381100956
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,4.86766286715114e-06
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.000606024012478632
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,5.864524682802795e-05
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,6.84297082658211e-05
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.012283075014797657
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.0002291714570043575
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.00034580404647525746
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.0006828459057085459
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.0035210221939897222
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.01600859656553022
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.05815380873834871
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.0006271020160913682
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.0026605614322613323
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.00012403246026068196
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,8.734374397760702e-06
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0005936660592656308
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.010765359802446865
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.31645130479082423
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.00124491663558352
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,1.2615416899721287e-06
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.002799049789289448
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.0013911566056751805
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.011271501822635687
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.0009105246216229094
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.0016395496123530094
+Augmented,clean,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.029233215944776146
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,9.840792165255207e-05
+Augmented,clean,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,1.1166286241991811e-05
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.0009864980286602195
+Augmented,clean,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,5.984549084104464e-07
+Augmented,clean,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.999869772286295
+Augmented,clean,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9997345511513183
+Augmented,clean,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.09074170253183379
+Augmented,clean,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9999548735795721
+Augmented,clean,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.5865758027200498
+Augmented,clean,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9958734670158418
+Augmented,clean,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.937164085679311
+Augmented,clean,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999999788118119
+Augmented,clean,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9999500545720056
+Augmented,clean,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.99999990669593
+Augmented,clean,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.7517511321438504
+Augmented,clean,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999929792370976
+Augmented,clean,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999320392817127
+Augmented,clean,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999957766751516
+Augmented,clean,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9234148805067344
+Augmented,clean,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999999340640727
+Augmented,clean,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999998273523254
+Augmented,clean,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999999878785809
+Augmented,clean,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999859279475874
+Augmented,clean,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999986430255627
+Augmented,clean,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999888446983437
+Augmented,clean,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9993508949143571
+Augmented,clean,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9995376017438119
+Augmented,clean,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999975308568774
+Augmented,clean,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9996810951818079
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.0014730784600300436
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,4.998966394904195e-05
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,0.001880914345471226
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.003814525834401782
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.011081585532889699
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,7.551063751386317e-05
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.008042552786459543
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,3.228427230973761e-05
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,4.611646624903269e-05
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.00035962773631434403
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,0.0004584778276788124
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,0.0002535699957917099
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,0.00013433031114006125
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.001615329375943288
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,0.0004920805289920912
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.01056802408222554
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,8.076200648809562e-05
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,0.0021930285929765594
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.055680546937467934
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.0002611746390358695
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.00227770356401657
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.0037266391763504133
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.0046013759288368195
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.021708915333581734
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.004478896121128228
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.0022426284468585324
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.00029959085967067197
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.0014692574430084464
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,0.0003286238665059067
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0012038542190361112
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.016758451641420313
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.015602754685794567
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.0005320687622700356
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,0.0002351456328741028
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.0020801508612918974
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.00741385792262897
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.0011532333732321306
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.0005941441057651336
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.00021118318028960704
+Baseline,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.00089451407408833
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.0005433252589328512
+Baseline,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,0.0031680302183947134
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.007214196114105557
+Baseline,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,4.495305485503289e-06
+Baseline,pcm16,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.997378534610814
+Baseline,pcm16,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9996744639268735
+Baseline,pcm16,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.06692403441924719
+Baseline,pcm16,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9998891156226098
+Baseline,pcm16,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.9989603146702272
+Baseline,pcm16,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9999011937577275
+Baseline,pcm16,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9683791520499916
+Baseline,pcm16,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999998044786527
+Baseline,pcm16,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9999567534424851
+Baseline,pcm16,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999988326484834
+Baseline,pcm16,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.7287158840980869
+Baseline,pcm16,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999745034552063
+Baseline,pcm16,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999507661258745
+Baseline,pcm16,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999841813615017
+Baseline,pcm16,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9771833283245722
+Baseline,pcm16,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999700774730484
+Baseline,pcm16,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.999993504185858
+Baseline,pcm16,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999981050122183
+Baseline,pcm16,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999942787454388
+Baseline,pcm16,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999951357703085
+Baseline,pcm16,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999294929919276
+Baseline,pcm16,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9631862561019623
+Baseline,pcm16,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9999069409372455
+Baseline,pcm16,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999568227715596
+Baseline,pcm16,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9989860399449125
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.013014913619401412
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.00016741927860015104
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,2.7738039501499915e-05
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.0018410595335182653
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.01658617353396666
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.003442026737918547
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.00040873393034123915
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,5.389418977393027e-08
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,0.000361713042284686
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.0012779766365760916
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,7.997960951263055e-05
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,7.586186721191045e-05
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,9.380544900308934e-07
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.0071264459645427
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,4.867662895443709e-06
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.0006060240585452813
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,5.8645231335878586e-05
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,6.842969881502935e-05
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.012283077416993601
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.00022917145607001698
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.0003458040007347819
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.000682845831906761
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.0035210222613005398
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.016008597352715762
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.05815380910996166
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.0006271019374049765
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.0026605611877093473
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.00012403245304737367
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,8.73437331228138e-06
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0005936660879336231
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.010765359533122935
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.3164513356875212
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.0012449165979438522
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,1.2615415049015212e-06
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.002799050126581886
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.0013911566368795603
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.011271500791562482
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.0009105245701213181
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.001639549492660974
+Augmented,pcm16,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.029233215256099662
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,9.840791679369121e-05
+Augmented,pcm16,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,1.1166285053049657e-05
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.0009864979731694604
+Augmented,pcm16,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,5.984549372868824e-07
+Augmented,pcm16,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9998697722839316
+Augmented,pcm16,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9997345511357312
+Augmented,pcm16,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.09074170653616496
+Augmented,pcm16,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9999548735768179
+Augmented,pcm16,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.5865758404941318
+Augmented,pcm16,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9958734663332818
+Augmented,pcm16,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9371640846341398
+Augmented,pcm16,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999999788118046
+Augmented,pcm16,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9999500545623374
+Augmented,pcm16,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999999066959293
+Augmented,pcm16,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.7517510814212238
+Augmented,pcm16,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999929792364806
+Augmented,pcm16,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999320392881926
+Augmented,pcm16,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999957766757374
+Augmented,pcm16,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9234148882168471
+Augmented,pcm16,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.999999934064067
+Augmented,pcm16,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.999999827352342
+Augmented,pcm16,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999999878785814
+Augmented,pcm16,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999859279468112
+Augmented,pcm16,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999986430256251
+Augmented,pcm16,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999888446964691
+Augmented,pcm16,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9993508949159874
+Augmented,pcm16,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.999537601752106
+Augmented,pcm16,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999975308564113
+Augmented,pcm16,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9996810951963178
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,1,0.9691757406698798
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,1,0.9477947085797694
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,1,0.9553434465030902
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,1,0.9940913155255345
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,1,0.8044261576558029
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,1,0.9984193168931713
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,1,0.9933829168745615
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,1,0.986605849714049
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,1,0.8566850905179901
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,1,0.9656643902399517
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,1,0.902807572665806
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,1,0.8751561936184078
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,1,0.9906343716687068
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,1,0.9967860418081225
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,1,0.9408876696590491
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,1,0.8881295514364941
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,1,0.9477877394644728
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,1,0.9691710515171515
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,1,0.8536665153641961
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,1,0.9773602601367922
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,1,0.6229662342751471
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,1,0.9606188095313983
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,1,0.6663459292703667
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,1,0.932897462735681
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,1,0.9836918252383005
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,1,0.9562503185054365
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,1,0.5456365709821438
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,1,0.7945835625102584
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,1,0.9707273695410354
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.08824270070086093
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,1,0.9596347409302872
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,1,0.9659734531452727
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,1,0.5922952187001289
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,1,0.9885341954895419
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,1,0.9778166386507751
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,1,0.9654818386862603
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.3994190084769798
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,1,0.9927769516535134
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,1,0.7351651700910167
+Baseline,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.07608900639852392
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,1,0.998450586170335
+Baseline,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,1,0.9646634634119376
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,1,0.8988266297122973
+Baseline,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,1,0.9303333941489857
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9979051530456636
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.998563465458026
+Baseline,noise_20db,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,1,0.8538678017485863
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9752785529297735
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.8481958033082669
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9956201438515982
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9922376931283033
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999568635985044
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.999980438609166
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999867593469735
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.6734324832469132
+Baseline,noise_20db,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9951522050228835
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999370634877388
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.999969406148584
+Baseline,noise_20db,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,0,0.19978257698671945
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9994657051754633
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9998973107856937
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9952003794219874
+Baseline,noise_20db,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.999651086031601
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9997365285764771
+Baseline,noise_20db,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999394911676269
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9999804711361667
+Baseline,noise_20db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9966997015835543
+Baseline,noise_20db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9977073533275755
+Baseline,noise_20db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9993338602170962
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.02491740998800503
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.002698845026311043
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,0.0004042765218425743
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.009415437021735439
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.43088107700750505
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.03450758642367913
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,1,0.784754269271408
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,0.04869212081311785
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,1,0.9002480651786638
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.023038856305451674
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,0.12888111736650465
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,0.0006076158153695745
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,8.014324889542434e-06
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.2929721309216836
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,7.732995495219972e-05
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.0009716471367989164
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,0.007436258424760674
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,0.02653180657665616
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.15669043660751666
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.005412927573971641
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.0002799088107166742
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.004604574799651723
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,1,0.8128662270610718
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.34025236721762375
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,1,0.9291435162073971
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.000727390655978468
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.062331528405353304
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.00010300016346175517
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,8.985473175732578e-05
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.00730757119023078
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.2590698116359783
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,1,0.7022633586514313
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.049707057102362534
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,7.774014050006117e-05
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.14601142447283036
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.0004127950568351163
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.17383947653719847
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.012067891152107782
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,1,0.6146045305568877
+Augmented,noise_20db,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,1,0.9748520907899916
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.0006868104086780091
+Augmented,noise_20db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,0.00016245594452735085
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.006157791328299807
+Augmented,noise_20db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,0.0003242048228989228
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9888083080145598
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9967242266991735
+Augmented,noise_20db,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,1,0.9821070682702341
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9185294717752798
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,0,0.0006477986983059727
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9525843129783678
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9421228198246355
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999997764333217
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9927935352820743
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999936262072551
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.8831051397082784
+Augmented,noise_20db,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9758050455070226
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9980040711917557
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.999998253693152
+Augmented,noise_20db,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,0,0.4879702360522747
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999997384906845
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.999997335523684
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999952004538963
+Augmented,noise_20db,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9998291436071228
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9997433552174159
+Augmented,noise_20db,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999785664593808
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9998557409591424
+Augmented,noise_20db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9886174316110621
+Augmented,noise_20db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999929349729291
+Augmented,noise_20db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9916644370583856
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,1,0.9843057575413771
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,1,0.9386983006617781
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,1,0.9729105956984356
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,1,0.9976238778673184
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,1,0.6907859192848022
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,1,0.9878492776359291
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,1,0.9925171249772935
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,1,0.9921070776664851
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,1,0.9381985001505802
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,1,0.9460516614737687
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,1,0.6818647009563857
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,1,0.8520470372264554
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,1,0.9604036007985015
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,1,0.992576935723462
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,1,0.8742774167025398
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,1,0.9416937872223188
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,1,0.9794116696465633
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,1,0.9680749832594212
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,1,0.8923827069451885
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,1,0.9913177651092654
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,1,0.7516189783419975
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,1,0.9655483653761682
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,1,0.6687202502429497
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,1,0.9246995846055291
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,1,0.9728464026018109
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,1,0.9721565071199185
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,1,0.8292269407379199
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,1,0.9199242707619224
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,1,0.9630536699583303
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.13985026885048876
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,1,0.9791899629231927
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,1,0.8930596075499101
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,1,0.8811169741242737
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,1,0.9892144230762819
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,1,0.9933231832769008
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,1,0.9800747442775731
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.3990391580924517
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,1,0.993743009582966
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,1,0.8399232968854365
+Baseline,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.06298427041452882
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,1,0.9982743900345988
+Baseline,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,1,0.9578104063606265
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,1,0.928787954808724
+Baseline,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,1,0.9021988737208534
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9990910424721595
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.999366119092106
+Baseline,noise_10db,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,1,0.8026215750646883
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9824399966328529
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.5672741408147967
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9958840208862126
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9814606727545412
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9998690880994772
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.999991303016408
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999932775402697
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.6797906642185688
+Baseline,noise_10db,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9876940314119621
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9957238080420662
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999745485033258
+Baseline,noise_10db,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,0,0.14329003904395998
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9997190965362166
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.999912770033228
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.997552070677745
+Baseline,noise_10db,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.999420994176929
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9994785214994345
+Baseline,noise_10db,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.999876143945901
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9999625211120342
+Baseline,noise_10db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9993056358446759
+Baseline,noise_10db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9967353153708064
+Baseline,noise_10db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9990899562328903
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.006849845539533289
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.0005207592828144987
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,0.00020982136114998157
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.006820989081614161
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.17172401195469097
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.17747497895984768
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,1,0.8404841872287534
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,0.02338806525081171
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,1,0.5198914317329614
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.0009652563806872461
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,0.006517245593075555
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,8.469688596844457e-05
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,5.62674410947629e-05
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.006150089631870579
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,4.759211723018804e-05
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.001755853537809504
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,0.0006358876153913616
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,0.07536463497029486
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.127949725190181
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.007609975677092133
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,2.5964660952011025e-05
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.0025834957809070798
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,1,0.9003631963384622
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.2779331525223178
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,1,0.9118668813053357
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.0016399913950221707
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.3781549288768518
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.00012843440564481515
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,8.145813716510941e-05
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.013703939833582179
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,1,0.8371601223274311
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,1,0.6070740068863306
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.22770050156241936
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,4.064127312578369e-05
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.42106792206097954
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,9.768104982749992e-05
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.13393278031179986
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.01328629496528755
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.2709605419964602
+Augmented,noise_10db,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,1,0.9598904856177043
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.0013968974733323738
+Augmented,noise_10db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,0.00015898526660509886
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.007724267157545063
+Augmented,noise_10db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,0.0019451672232833968
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9945619787750111
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9958104093680867
+Augmented,noise_10db,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,1,0.9859098606352634
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,0,0.4442981937527796
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,0,0.0012420199478147549
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9622422280460542
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.6795886599551441
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.999994501584156
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.8891039061931434
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999698237489156
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.9182834740644505
+Augmented,noise_10db,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,0,0.11381700297131671
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.7338842396750754
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999995360998013
+Augmented,noise_10db,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.6004371138053624
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.999999826020089
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999904862530766
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999885215022305
+Augmented,noise_10db,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9998455688745664
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9988981256572885
+Augmented,noise_10db,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9866586136297085
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9994877821700602
+Augmented,noise_10db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9898026272257401
+Augmented,noise_10db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.999986353908292
+Augmented,noise_10db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9276511288599464
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,1,0.9755007906644501
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,1,0.9608326819492992
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,1,0.9738637764940731
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,1,0.9976481519855515
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,1,0.6658787967496548
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,1,0.993598630543063
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,1,0.8527991170717159
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,1,0.9964088042121015
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,1,0.8774551630413416
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,1,0.9289568994419496
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,1,0.6304512115216276
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,1,0.9511912089690021
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,1,0.9491447488720094
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,1,0.9982309962531237
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,1,0.97116771433416
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,1,0.9707654718320231
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,1,0.9894567439666268
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,1,0.9593784242627946
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,1,0.8713327408795827
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,1,0.9970307038959337
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,1,0.8149306630125512
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,1,0.9784442895699929
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,1,0.5569393454891454
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,1,0.9462993775771463
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,1,0.9918853739399711
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,1,0.9752770364935203
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,1,0.9444997212435533
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,1,0.9665636169977901
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,1,0.9431272307691015
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.1900470428819663
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,1,0.9571185071511421
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,1,0.9532123344386538
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,1,0.8609681982777965
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,1,0.9902491258587668
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,1,0.9986443588011334
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,1,0.9970172998623632
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.38525752449135386
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,1,0.9884051544399464
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,1,0.7530416260504506
+Baseline,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.0635018074967368
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,1,0.994240760164944
+Baseline,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,1,0.9768053393872255
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,1,0.9507713587897976
+Baseline,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,1,0.9974681024770147
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.998468126049063
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9995974997395881
+Baseline,noise_5db,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,1,0.5965504440739058
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9823933465795792
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.694012447416162
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9961986255042473
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9843921061921012
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999565584947605
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9999985679732489
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999981471556605
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.7926508121821858
+Baseline,noise_5db,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.8318764002498475
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9985990689187424
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999904471158155
+Baseline,noise_5db,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,0,0.19084139093822586
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9997331439343803
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9997553493618285
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9966496329942042
+Baseline,noise_5db,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9998086022808076
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9993294736887187
+Baseline,noise_5db,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999939568885878
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9999635018971276
+Baseline,noise_5db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.999201425407112
+Baseline,noise_5db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9950227008821428
+Baseline,noise_5db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9993477036039349
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.010707368988494089
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,8.93167272982629e-05
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,0.0009243054862464834
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.0068780340137623965
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.05046895038593517
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.0227948697943647
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.13152069826610138
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,0.004447756103413619
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,0.30448758024939915
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.0005137545787335716
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,0.03826992747644156
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,0.0001250089539823298
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,0.00042890463102113874
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.0038879191926891655
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,0.0003338811964189301
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.000810350755681357
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,0.0013844780771428773
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,0.004318711685184074
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.027238468971256674
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.0019906054799939442
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,3.369960587868501e-05
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.0018056321554632837
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,1,0.5951192952300484
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.009388114924415492
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.4802871357375423
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.019827939452485698
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.18814434231787744
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.00014697513781357846
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,0.00010894259112079936
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0026757361485393563
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,1,0.7454883680734201
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.1808673695899514
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.055891896540351274
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,0.0002211567950202965
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.37321223778945223
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.0004233879751650062
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.05609604731945026
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.003735711052879474
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.02926427793616287
+Augmented,noise_5db,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,1,0.9013609255671441
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.001820114698001368
+Augmented,noise_5db,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,0.00016711368362883633
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.03261166459316015
+Augmented,noise_5db,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,0.009513293448992566
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9205052405402577
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9962934472633882
+Augmented,noise_5db,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,1,0.7811252426368817
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,0,0.2708649250527549
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,0,0.03605354760197069
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9664282286795968
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.907834571929044
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999926411926687
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9996718212306019
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999123826487544
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.8685508490842214
+Augmented,noise_5db,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,0,0.04419554171228521
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9723709776706838
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999999446673009
+Augmented,noise_5db,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9065870480183984
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999996270798172
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999186885238391
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999850076239819
+Augmented,noise_5db,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.999840248338355
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9872223082886401
+Augmented,noise_5db,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9977164919969878
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9998437030023188
+Augmented,noise_5db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9911796139281153
+Augmented,noise_5db,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.999892937803508
+Augmented,noise_5db,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9087353471335755
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.002116825276720341
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,5.028493129409142e-05
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,0.0019062757569676002
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.004052857806002045
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.0047720067650509615
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.00010550736028684308
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.00968905438622934
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,0.0003103883993105541
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,8.044774355850222e-05
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.0004006497816988107
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,0.0003573545438911951
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,0.00023490495501474125
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,0.001101883573812909
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.0025339121110608378
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,0.000516249719694941
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.012724660769483817
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,9.172189282140682e-05
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,0.002344802909900704
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.026697232732742476
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.0003433836483233353
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.0022118384084202835
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.003777774894295559
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.0039706112542767
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.016116000487969667
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.003908924562038082
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.003504716501198374
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.00028543005977933717
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.00343155543744377
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,0.0002523201818545203
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.001028533282212661
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.016035432599338786
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.012853733528793024
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.0006502789689764726
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,0.0002447283764928121
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.0018771632919900312
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.0119151067972033
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.0009087129502819416
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.000692615925434105
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.00017004458405850043
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.0005532088262184887
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.0007072441932740138
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,0.003560671596469427
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.006513329852564082
+Baseline,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,5.061415849195638e-06
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9988554847611498
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9998991293332817
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.08970864313430092
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9998575999474701
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.9994405044276208
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9999041181856378
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9672679531700245
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999997996324097
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.999935877805989
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.999998610038429
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.8551678994710384
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999515186051321
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999309185236998
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999842021358457
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9913542752153222
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999663187168867
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999953138857967
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999974887542605
+Baseline,opus_64kbps,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999973941907655
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999962516465047
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999265656333094
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9455873324553749
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9998376805816019
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999547316305306
+Baseline,opus_64kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9988417894113532
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.015779163909110105
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.0001676612246047976
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,2.5312964129195314e-05
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.0018898399044830492
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.004593268306285928
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.005387702340950517
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.0004455244140544509
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,4.4808122118501604e-07
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,0.0006326715351268668
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.001197115827550547
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,4.424444871686722e-05
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,6.323035278606385e-05
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,3.5738895719566896e-06
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.009634988820728342
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,4.3166061092694254e-06
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.0010557907591562429
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,7.98488665829326e-05
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,5.3018878818634116e-05
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.0038974140228089983
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.00023003852161938861
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.000340702360850844
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.0008665879994474209
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.002728461422536581
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.01340516815354752
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.034265679580531214
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.00095297254805634
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.002858279270463432
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.00017513646929374237
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,7.579273300521003e-06
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0004086894154111041
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.009579343266969822
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.2371352191188789
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.0014272152171997418
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,1.7307761304002307e-06
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.0023107041887767397
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.0017986740560543672
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.011117031746142512
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.0009801682199189392
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.001526968410516745
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.014282146201353783
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.000133646581471973
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,1.1724237176366032e-05
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.0007931025650270006
+Augmented,opus_64kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,9.19885855538697e-07
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9999683018277976
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9999231069329929
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.14109859521057572
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9999625162650533
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.8268790903040409
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.996645407977405
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9488531867582344
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999999755889225
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.999951879914654
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999999025316677
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.8412709625967455
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999930891443876
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999214561169196
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999960113974322
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9768293774099266
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999999359841746
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.999999833746095
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999999877727007
+Augmented,opus_64kbps,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999928761510035
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999988146428782
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999903133328917
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9989049967117407
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9985562231528997
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999977370689636
+Augmented,opus_64kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.999631218674417
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.0032573664265591537
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.00012186666010271126
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,0.00171374255525395
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.005043953750144788
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.004588102722197502
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.0002473587265541954
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.11121666501725652
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,0.0006403004760832871
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,6.108116134592144e-05
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.0005431798380654931
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,0.0006845294716499442
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,0.00027097692147561606
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,0.003289428156301762
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.0023379176721710464
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,0.0007210581913146112
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.014015304257718249
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,0.00011651762140731292
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,0.002505946385719226
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.02909913116570108
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.00022528896345602804
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.002927848732932976
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.005013362020213585
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.004863241676389818
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.014482997096707933
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.005111865285026867
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.004621390356572555
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.0002640177708508548
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.05658313060139825
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,0.0003187733695248565
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0010199191540052647
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.0185207091825113
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.01378029504317065
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.0004962012759827943
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,0.000354387764779208
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.0027225862852212923
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.012804044700158399
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.001288511879743645
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.00095352257665196
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.00021991312706861382
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.0010795173966612636
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.0005317869316988995
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,0.003742508556794121
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.008925854466418701
+Baseline,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,8.478503383428312e-06
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.998797314434483
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9998622588785383
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.0955686217579845
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.999921225703182
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.9989681954019797
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.9999179235275982
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.970699511718557
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999998634309197
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9998585238474345
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999983265554773
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.7565406728961984
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999545839721283
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999279591497552
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999891775474496
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9922139257422916
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999719193062395
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999940316439788
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999975418169655
+Baseline,opus_32kbps,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.999997833917149
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999972005517951
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.999946823195427
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9735867220845117
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9997910422235834
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999484503353882
+Baseline,opus_32kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9984182426290543
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.021756066574233925
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.00028292057730265754
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,2.3589220429334627e-05
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.0018395479041568164
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.003616642134781707
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.007566118519772228
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.0014502684578424734
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,6.154684605999227e-07
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,0.00042578487133259637
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.0013609947942784361
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,6.664952101070531e-05
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,4.931342041128133e-05
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,6.363059411233899e-06
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.0064467416017289555
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,5.695169921452564e-06
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.0007467063728044769
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,6.309911911262082e-05
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,4.5470423119301115e-05
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.0038390619278296395
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.00022940661290576003
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.00037088242898914955
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.0008578766755610915
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.005006126651125844
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.009163036491149638
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.06442433657628677
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.0005414480203613207
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.0019224619048404932
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.0012074791804534129
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,8.040797093925338e-06
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0004579202691246471
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.011096644880652777
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.24962544094843392
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.0009796875722970708
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,2.3883931413162023e-06
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.0029520786124823317
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.0019352802806563989
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.015213571052397293
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.0014510997061403998
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.002535830221021993
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.05029102952601098
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.00010156041146375486
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,1.2568108874242913e-05
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.0010673806256625501
+Augmented,opus_32kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,2.0959962773317268e-06
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9999689543480798
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.999799501552695
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.12218396942452361
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9999676880373268
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.6444147339403701
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.996525041847166
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.956179039927071
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999999774377119
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9998780668036725
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.99999988157717
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.7030895481981112
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.999989252396851
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999100018721571
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999971388875769
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9799597335493828
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999999558540797
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999997790076192
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999999864871707
+Augmented,opus_32kbps,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999962228191382
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999992176844327
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999921019283414
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.999276302849557
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9975851795389388
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.999997792733995
+Augmented,opus_32kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9993896907615422
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.00344727239778179
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.0009676366099588535
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,0.0022583109067550403
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.006396266402146182
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.006790348211230635
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.0011204626259982227
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,1,0.5002945229182075
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,0.00644945153432445
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,8.91243509014028e-05
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.00044873436199564055
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,0.00034997743959224554
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,0.0003335063855326731
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,0.030728150692729543
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.0027935748694612066
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,0.0008531724568790647
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.02578330068998726
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,0.0002901656346767871
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,0.004320187083920198
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.03257365597138732
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.00028622897839164854
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.004385309399151056
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.00643485146982747
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.004141759841689708
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.02027353537728998
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.005154187110394658
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.004090879554968318
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.00030911369893487587
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.1488951527236656
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,0.0005127401402183558
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0010994821824131238
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.02382715698506735
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.014239260569525784
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.001406614938792655
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,0.0006731858854386768
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.005966400050293543
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.014419183724533153
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.000983954679182806
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.0016180744171306331
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.00042450298899232076
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.0012829401948266624
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.0014747988964338942
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,0.004071223247655639
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.010772802260042564
+Baseline,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,1.3685096655413528e-05
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9996712339823558
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9999487493836764
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.16102551036423646
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9999427412734816
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.999280271208325
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.999941162985206
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9749615837084669
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999996831093506
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9999139737806059
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999982406217268
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.7291068246509695
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999613468707786
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999193188817443
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999926577076942
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9800823685733608
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999492089865203
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999937269522527
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999982689353452
+Baseline,opus_16kbps,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999988633305376
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999985492844137
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999545995513436
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9990477892412033
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.9998696252870048
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999544052789121
+Baseline,opus_16kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9984541330544792
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000012.wav,0,0,0.018786002390778957
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000090.wav,0,0,0.0015145401703562727
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000060.wav,0,0,3.1429262521213827e-05
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000048.wav,0,0,0.0023607841814017195
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000045.wav,0,0,0.002979152162406836
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000009.wav,0,0,0.019157724338680016
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000114.wav,0,0,0.005111506719095101
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000081.wav,0,0,9.576140110532002e-06
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000058.wav,0,0,0.0010994136695607602
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000069.wav,0,0,0.001764119962486362
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000042.wav,0,0,4.657344431888961e-05
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000002.wav,0,0,6.888867394347206e-05
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000029.wav,0,0,2.1312451539635305e-05
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000051.wav,0,0,0.007678433927395834
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000113.wav,0,0,7.943225569255901e-06
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000018.wav,0,0,0.001965006022746105
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_22_f000076.wav,0,0,0.0001743703287538671
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000032.wav,0,0,5.765368977654996e-05
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000045.wav,0,0,0.005326042095559072
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_20_f000022.wav,0,0,0.000260826215784496
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_19_f000066.wav,0,0,0.0005629585143445583
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000026.wav,0,0,0.0011774639298688862
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000109.wav,0,0,0.0033472378541682625
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000118.wav,0,0,0.017004092160769695
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000123.wav,0,0,0.03207044020933702
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000038.wav,0,0,0.0006052368739517654
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000106.wav,0,0,0.0022911605470246708
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000050.wav,0,0,0.002162464819028433
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_23_f000061.wav,0,0,1.3526917005198521e-05
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000073.wav,0,0,0.0006359241052461144
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000127.wav,0,0,0.01699235107889574
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000108.wav,0,0,0.3232012613190832
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000017.wav,0,0,0.001794357407089189
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000041.wav,0,0,3.367079598685597e-06
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000116.wav,0,0,0.006781178253824692
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_06_f000014.wav,0,0,0.003358589990934568
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_05_f000072.wav,0,0,0.014675827858408989
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000007.wav,0,0,0.002033327124275019
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_10_f000009.wav,0,0,0.006272596053268243
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/hunters_space_11_f000076.wav,0,0,0.040351072725366637
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_11_f000043.wav,0,0,0.0002190871859149545
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/emerald_city_of_oz_10_f000117.wav,0,0,1.639172140975597e-05
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_17_f000014.wav,0,0,0.0013915769596121019
+Augmented,opus_16kbps,data/mlaad-tiny/original/en/dorothy_and_wizard_oz_16_f000031.wav,0,0,2.493305467548134e-06
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/midnight_passenger_03_f000332.wav,1,1,0.9999887788118124
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Edge-TTS/midnight_passenger_03_f000171.wav,1,1,0.9999790940222706
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/OuteTTS/hunters_space_11_f000118.wav,1,0,0.12947250483729614
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Metavoice-1B/poisoned_pen_06_f000311.wav,1,1,0.9999832185421011
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Higgs-Audio-V2/the_sea_fairies_04_f000031.wav,1,1,0.6382060485542629
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Metavoice-1B/hunters_space_11_f000004.wav,1,1,0.998333191336678
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Index-TTS-2.0/midnight_passenger_03_f000185.wav,1,1,0.9664627195839693
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_19_f000076.wav,1,1,0.9999999380273953
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/silent_bullet_02_f000119.wav,1,1,0.9997939278498171
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Marvis-TTS/northandsouth_35_f000049.wav,1,1,0.9999998680845984
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Mars5/piratesofersatz_01_leinster_64kb_f000004.wav,1,1,0.75521497134113
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/the_sea_fairies_13_f000041.wav,1,1,0.9999943462092808
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Kyutai-TTS/wives_and_daughters_38_f000188.wav,1,1,0.9999196778034598
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/jane_eyre_35_f000005.wav,1,1,0.9999985328026688
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/FireRedTTS-2.0/pink_fairy_book_22_f000104.wav,1,1,0.9459573753155542
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/wives_and_daughters_04_f000099.wav,1,1,0.9999999311054458
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Ringg Squirrel TTS v1.0/emerald_city_of_oz_11_f000100.wav,1,1,0.9999998604548744
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Openaudio-S1-Mini/the_sea_fairies_20_f000127.wav,1,1,0.9999999945899378
+Augmented,opus_16kbps,"data/mlaad-tiny/fake/en/Resemble.ai (April 12th, 2025)/the_sea_fairies_17_f000140.wav",1,1,0.9999985756911757
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Metavoice-1B/wives_and_daughters_04_f000157.wav,1,1,0.9999997172523531
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/OpenVoiceV2/northandsouth_35_f000213.wav,1,1,0.9999944607044066
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Index-TTS-1.5/the_master_key_20_f000124.wav,1,1,0.9999687281947662
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_39_f000184.wav,1,1,0.998854997253197
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/DeepGram/northandsouth_20_f000040.wav,1,1,0.9999986808934446
+Augmented,opus_16kbps,data/mlaad-tiny/fake/en/Microsoft VibeVoice 1.5B/the_sea_fairies_13_f000025.wav,1,1,0.9993510153642393
